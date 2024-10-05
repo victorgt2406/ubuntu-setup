@@ -3,3 +3,7 @@
 Install nix
 
 Install devbox
+
+Install vscode
+
+Install aclaritty
